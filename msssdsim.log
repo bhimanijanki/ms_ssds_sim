@@ -1,0 +1,252 @@
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/Freq/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1926624835 5831 4.09
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/Freq/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 194911330 2561 1.19
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/Freq/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 332613749 1840 1.57
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/Freq/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 2144244928 6370 4.44
+2144244928 0 0 176 2272 3652792 117187636 135553376 30526908 31401680 49523474 29148242 114737104 111182934 74604 122088 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/Freq/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 112412982 2367 1.11
+112412982 792946280 184136 200216 28034272 132213616 25511236 3712 36073232 0 3440 0 0 3652 0 4560 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/Freq/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 282442931 1728 1.48
+282442931 142965160 27152 27923 4404218 27380952 110193434 64071266 58452665 63595888 39581528 22131494 27720328 19723465 2142808 2624 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/Freq/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1495039529 4779 3.40
+1495039529 95560726 0 0 0 0 0 0 0 0 0 0 0 0 227860040 299692520 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/Seq/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1799344647 5522 3.89
+1799344647 95560726 0 0 0 0 0 0 0 0 0 0 0 0 7357888 520194672 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/Rec/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1672351641 5212 3.68
+1672351641 95560726 0 0 0 0 0 0 0 0 0 0 0 0 207570880 319981680 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/Coh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1768224678 5446 3.84
+1768224678 95560726 0 0 0 0 0 0 0 0 0 0 0 0 464761856 62790704 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqSeq/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1547059189 4906 3.48
+1547059189 95560726 0 0 0 0 0 0 0 0 0 0 0 3138352 224721688 299692520 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqRec/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1470393830 4719 3.36
+1470393830 95560726 0 0 0 0 50718760 0 0 0 0 0 0 71007920 156852120 248973760 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1495039529 4779 3.40
+1495039529 95560726 0 0 0 0 0 0 0 0 0 0 0 0 227860040 299692520 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/SeqRec/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1732127051 5359 3.78
+1732127051 95560726 0 0 0 0 0 0 0 0 0 0 0 2868144 204702736 319981680 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/SeqCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1851362271 5650 3.97
+1851362271 95560726 0 0 0 0 0 0 0 0 0 0 0 6487616 870272 520194672 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/RecCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1732952144 5361 3.78
+1732952144 95560726 0 0 0 0 0 0 0 0 0 0 0 205645200 1925680 319981680 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqSeqRec/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1522024878 4846 3.44
+1522024878 95560726 0 0 0 0 50718760 0 0 0 0 0 2151992 71007920 154700128 248973760 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqRecCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1470393830 4719 3.36
+1470393830 95560726 0 0 0 0 50718760 0 0 0 0 0 0 71007920 156852120 248973760 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqSeqCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1547059189 4906 3.48
+1547059189 95560726 0 0 0 0 0 0 0 0 0 0 0 3138352 224721688 299692520 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/SeqRecCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1773130520 5458 3.85
+1773130520 95560726 0 0 0 0 0 0 0 0 0 0 2834496 604944 204702736 319410384 0 
+filename is ../../data/1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1cass/FreqSeqRecCoh/nvme0n1/dictionary.log
+loop 0
+107049234 623113286 1522024878 4846 3.44
+1522024878 95560726 0 0 0 0 50718760 0 0 0 0 0 2151992 71007920 154700128 248973760 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/Freq/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 56603408 2225 1.06
+56603408 13993088 0 0 0 0 0 0 0 0 0 0 0 0 960908736 40276528 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/Seq/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 83407640 2290 1.08
+83407640 13993088 0 0 0 0 0 0 0 0 0 0 0 0 411596000 589589264 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/Rec/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 70171216 2259 1.07
+70171216 13993088 0 0 0 0 0 0 0 0 0 0 0 0 39425696 961759568 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/Coh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 29114360 2158 1.03
+29114360 13993088 0 0 0 0 0 0 0 0 0 0 0 0 838989744 162195520 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqSeq/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 56516592 2226 1.06
+56516592 13993088 0 0 0 0 0 0 0 0 0 0 392229232 19366768 568679504 20909760 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqRec/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 58491244 2229 1.06
+58491244 35079168 0 0 0 0 0 0 0 0 0 0 0 18339616 939822656 21936912 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 24959880 2148 1.02
+24959880 13993088 0 0 0 0 0 0 0 0 0 0 0 121918992 838989744 40276528 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/SeqRec/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 70550696 2260 1.07
+70550696 13993088 0 0 0 0 0 0 0 20465064 0 0 392635368 0 18960632 569124200 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/SeqCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 29711096 2161 1.03
+29711096 13993088 0 0 0 0 0 0 0 0 0 0 333449576 78146424 505540168 84049096 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/RecCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 14654944 2123 1.01
+14654944 13993088 0 0 0 0 0 0 0 0 0 0 0 26809184 797541184 176834896 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqSeqRec/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 57608048 2228 1.06
+57608048 24948872 0 10536432 0 0 0 0 0 9509280 0 0 392229232 8830336 557723720 11400480 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqRecCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 24266368 2146 1.02
+24266368 19610608 0 0 0 0 0 0 0 0 0 0 18339616 116301472 838989744 21936912 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqSeqCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 15825592 2128 1.02
+15825592 13993088 0 0 313505928 0 0 0 0 0 0 19366768 78723304 84644248 484035256 20909760 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/SeqRecCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 15804936 2126 1.02
+15804936 13993088 0 0 307460224 0 6045704 0 0 13894256 0 0 85175144 12914928 484035256 91659752 0 
+filename is ../../data/1mysql/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql/FreqSeqRecCoh/nvme0n1/dictionary.log
+loop 0
+131880138 1015178352 15432648 2126 1.02
+15432648 18378064 0 10536432 313505928 0 0 0 0 9509280 0 8830336 78723304 80259272 484035256 11400480 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/Freq/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 255806701 1654 1.44
+255806701 99651249 0 0 0 0 0 0 0 0 0 0 0 0 389044168 93725488 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/Seq/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 281616744 1717 1.48
+281616744 99651249 0 0 0 0 0 0 0 0 0 0 0 0 50686640 432083016 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/Rec/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 268927388 1687 1.46
+268927388 99651249 0 0 0 0 0 0 0 0 0 0 0 0 176362640 306407016 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/Coh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 226849102 1584 1.39
+226849102 99651249 0 0 0 0 0 0 0 0 0 0 0 0 403867000 78902656 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqSeq/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 260716062 1666 1.45
+260716062 99651249 0 0 0 0 0 0 0 0 0 0 0 11001424 389044168 82724064 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqRec/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 247150626 1635 1.42
+247150626 99651249 0 0 0 0 0 0 0 279100304 0 0 0 66418776 109943864 27306712 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 255806701 1654 1.44
+255806701 99651249 0 0 0 0 0 0 0 0 0 0 0 0 389044168 93725488 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/SeqRec/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 269919155 1690 1.46
+269919155 99651249 0 0 0 0 0 0 0 0 0 0 0 20563416 155799224 306407016 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/SeqCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 280824152 1716 1.48
+280824152 99651249 0 0 0 0 0 0 0 0 0 0 0 47201568 3485072 432083016 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/RecCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 250612144 1642 1.43
+250612144 184906345 0 0 0 0 0 0 0 0 0 0 0 175378888 983752 221151920 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqSeqRec/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 244462811 1629 1.42
+244462811 99651249 0 0 0 0 0 0 0 279100304 0 0 58602792 7815984 109943864 27306712 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqRecCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 247150626 1635 1.42
+247150626 99651249 0 0 0 0 0 0 0 279100304 0 0 0 66418776 109943864 27306712 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqSeqCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 245991880 1630 1.42
+245991880 185890097 0 0 0 0 0 0 0 0 0 0 0 11001424 302805320 82724064 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/SeqRecCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 253905340 1650 1.44
+253905340 184906345 0 0 0 0 0 0 0 0 0 0 20456792 106624 155799224 221151920 0 
+filename is ../../data/1mysql1cass/blktrace_nvme0n1.log
+dictionary is ../../data/1mysql1cass/FreqSeqRecCoh/nvme0n1/dictionary.log
+loop 0
+102958840 582420905 237352291 1612 1.41
+237352291 185890097 0 0 0 0 0 0 0 193845208 0 0 58602792 7815984 108960112 27306712 0 

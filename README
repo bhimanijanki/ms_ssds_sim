@@ -1,0 +1,19 @@
+This directory contains release 1.0 of the multi-stream SSDs storage subsystem
+simulator.  For more details check out and if using then must cite the following publication,
+
+"Bhimani J, Mi N, Yang Z, Yang J, Pandurangan R, Choi C, Balakrishnan V. FIOS: Feature Based I/O Stream Identification for Improving Endurance of Multi-Stream SSDs. In2018 IEEE International Conference on Cloud Computing (CLOUD 2018). IEEE 2018 Jul 1." 
+
+To quickly verify that you've got everything and that it works:
+
+  1. "make" the top-level directory. It will creat executable named msssdsim in the main directory. The sample executable is incluted in this git repository.
+    
+  2. To run the simulator as legacy SSD use - "./msssdsim -f <input block trace file> -d <input dictionary file> -s <flash SSD size in 512 byte sectors> -r (consider 'read' as 'write' in the first loop) -l <number of loops> ". 
+
+  3. To run the simulator as legacy SSD use - "./msssdsim -f <input block trace file> -d <input dictionary file> -s <flash SSD size in 512 byte sectors> -m <number of streams> -c <multi-stream algorithm> -r (consider 'read' as 'write' in the first loop) -l <number of loops>".  
+
+  4. Script "msssdsim.sh" lists some examples to run this simulator such as:
+
+  	a) Legacy SSD: " ./msssdsim -f ../../data/8cass/blktrace_nvme0n1.log -d ../../data/8cass/Freq/nvme0n1/dictionary.log -s 170000000  -r -l 2"
+
+  	b) Multi-stream SSD: " ./msssdsim -f ../../data/8cass/blktrace_nvme0n1.log -d ../../data/8cass/Freq/nvme0n1/dictionary.log -s 170000000 -m 16 -c 4 -r -l 2"
+
